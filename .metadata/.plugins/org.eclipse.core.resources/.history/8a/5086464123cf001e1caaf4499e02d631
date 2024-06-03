@@ -1,0 +1,25 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		
+		final String usuario = "postgres";
+		final String senha = "admin123";
+		final String url = "jbc:postgresql:/localhost:5432/postgres";
+		final String driverBanco = "org.postgresql.Driver";
+		
+		try {
+			Class.forName(driverBanco);
+			try Connection conexao = DriverManager.getConnection(url, usuario, senha);
+			
+			System.out.println("Conexão Bem sucedida");
+			
+		} catch (Exception exception) {
+			System.out.println("Não conectado ao banco de dados");
+		}
+
+	}
+
+}

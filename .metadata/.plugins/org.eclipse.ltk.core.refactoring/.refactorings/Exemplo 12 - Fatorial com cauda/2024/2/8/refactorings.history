@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;FatorialP.java&apos; to &apos;Fatorial.java&apos;&#x0D;&#x0A;- Original project: &apos;Exemplo 12 - Fatorial com cauda&apos;&#x0D;&#x0A;- Original element: &apos;FatorialP.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Fatorial.java&apos;" description="Rename compilation unit &apos;FatorialP.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{FatorialP.java" name="Fatorial.java" references="false" stamp="1708453060807" version="1.0"/>
+</session>

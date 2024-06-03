@@ -1,0 +1,2761 @@
+!SESSION 2024-02-08 23:38:09.140 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-08 23:38:15.707
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-08 23:38:37.557
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-08 23:38:41.627
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-08 23:38:41.627
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-08 23:38:50.461
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-15 08:54:04.685 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-15 08:54:13.762
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-15 08:54:19.984
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-15 08:54:22.482
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-15 08:54:22.482
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-15 08:54:31.001
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-16 08:42:26.821 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-16 08:42:36.621
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-02-16 08:42:47.800
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-16 08:42:48.829
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-16 08:42:51.546
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-16 08:42:51.546
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-16 08:42:57.795
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-18 19:56:43.757 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-18 19:56:47.495
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-18 19:57:00.836
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-18 19:57:04.493
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-18 19:57:04.493
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-18 19:57:15.166
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-19 09:06:32.547 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-19 09:06:50.304
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-19 09:07:05.669
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-19 09:07:10.080
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-19 09:07:10.080
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jdt.core 4 -1 2024-02-19 09:07:23.869
+!MESSAGE I/O exception
+!STACK 0
+java.nio.file.NoSuchFileException: D:\Programas\PostgreSQL\postgresql-42.6.0.jar
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:199)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1851)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:718)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:252)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:181)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:195)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2968)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2937)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:572)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:303)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:289)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:909)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:902)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:190)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:742)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:808)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1326)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.jdt.core 4 4 2024-02-19 09:07:23.993
+!MESSAGE Failed to retrieve children for D:\Programas\PostgreSQL\postgresql-42.6.0.jar (not open)
+!STACK 1
+org.eclipse.core.runtime.CoreException: I/O exception
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2978)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2937)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:572)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:303)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:289)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.hasSubPackageInUnnamedModule(SearchableEnvironment.java:1301)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:1048)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1690)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:726)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:243)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment$CompleteTypeBindingsSteps.perform(LookupEnvironment.java:170)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:543)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:880)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:393)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1037)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1110)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:282)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:190)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:742)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:808)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1326)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+Caused by: java.nio.file.NoSuchFileException: D:\Programas\PostgreSQL\postgresql-42.6.0.jar
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:199)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1851)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:718)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:252)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:181)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:195)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2968)
+	... 40 more
+!SUBENTRY 1 org.eclipse.jdt.core 4 -1 2024-02-19 09:07:23.996
+!MESSAGE I/O exception
+!STACK 0
+java.nio.file.NoSuchFileException: D:\Programas\PostgreSQL\postgresql-42.6.0.jar
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:53)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:199)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1851)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1428)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:718)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:252)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:181)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:195)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2968)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2937)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:572)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:303)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:289)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:244)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.hasSubPackageInUnnamedModule(SearchableEnvironment.java:1301)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.getModulesDeclaringPackage(SearchableEnvironment.java:1048)
+	at org.eclipse.jdt.internal.compiler.env.IModuleAwareNameEnvironment.getUniqueModulesDeclaringPackage(IModuleAwareNameEnvironment.java:113)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getVisiblePackage(ModuleBinding.java:582)
+	at org.eclipse.jdt.internal.compiler.lookup.ModuleBinding.getTopLevelPackage(ModuleBinding.java:551)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.getTopLevelPackage(LookupEnvironment.java:1690)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getDefaultImports(CompilationUnitScope.java:726)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.checkAndSetImports(CompilationUnitScope.java:243)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment$CompleteTypeBindingsSteps.perform(LookupEnvironment.java:170)
+	at org.eclipse.jdt.internal.compiler.lookup.LookupEnvironment.completeTypeBindings(LookupEnvironment.java:543)
+	at org.eclipse.jdt.internal.compiler.Compiler.internalBeginToCompile(Compiler.java:880)
+	at org.eclipse.jdt.internal.compiler.Compiler.beginToCompile(Compiler.java:393)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1037)
+	at org.eclipse.jdt.internal.compiler.Compiler.resolve(Compiler.java:1110)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:282)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:190)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:742)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:808)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1326)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:132)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:94)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:91)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.initialReconcile(JavaReconcilingStrategy.java:189)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:125)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:139)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:100)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:421)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:177)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-19 09:07:26.483
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-19 10:57:06.768 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-19 10:57:29.325
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-02-19 11:01:41.394
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-19 11:01:42.318
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-19 11:01:45.279
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-19 11:01:45.279
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-19 11:01:54.222
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.037
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.061
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.083
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.103
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.124
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.148
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.173
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.193
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:11.218
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.453
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.473
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.492
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.509
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.528
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.546
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.565
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.585
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:16.605
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.668
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.688
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.708
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.728
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.757
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.776
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.798
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.817
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:17.838
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:35.957
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:35.968
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:35.978
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:35.988
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:35.998
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:36.008
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:36.018
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:36.028
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:36.038
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.722
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.738
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.748
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.758
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.772
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.783
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.794
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.805
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:39.816
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.684
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.696
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.707
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.717
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.727
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.737
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.747
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.757
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:41.767
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.872
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.891
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.903
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.914
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.924
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.934
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.943
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.953
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:53.963
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.216
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.228
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.243
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.253
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.263
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.272
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.282
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.291
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.300
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.843
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.856
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.867
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.878
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.888
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.898
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.907
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.917
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:10:55.926
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.780
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.794
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.804
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.814
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.823
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.833
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.847
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.857
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:37.867
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.233
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.250
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.266
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.283
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.301
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.326
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.346
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.369
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.390
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.841
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.861
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.879
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.895
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.911
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.928
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.945
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.974
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:53.990
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.187
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.208
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.225
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.248
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.266
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.282
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.298
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.313
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.328
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.666
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.685
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.705
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.725
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.746
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.766
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.785
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.806
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:54.827
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.483
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.504
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.524
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.545
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.567
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.586
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.606
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.626
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:55.645
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.238
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.259
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.285
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.306
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.327
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.348
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.370
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.392
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.414
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.692
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.710
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.727
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.742
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.758
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.774
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.789
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.805
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.821
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.951
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.969
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:56.992
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.013
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.035
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.059
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.082
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.106
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.130
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.244
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.264
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.284
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.306
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.326
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.345
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.363
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.380
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.396
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.532
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.549
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.569
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.589
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.607
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.624
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.641
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.657
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.673
+!MESSAGE Compile error during code evaluation: The type java.util.HashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.795
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.813
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.830
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.846
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.863
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.880
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.900
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.925
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:57.949
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.029
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.051
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.073
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.097
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.121
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.148
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.172
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.192
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.211
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.332
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.385
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.422
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.452
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.479
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.506
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.538
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.561
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.591
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.615
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.637
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.658
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.677
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.694
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.712
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.738
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.762
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:58.787
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.091
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.123
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.155
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.182
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.205
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.232
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.259
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.285
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:11:59.314
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.441
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.462
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.479
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.497
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.516
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.534
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.550
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.567
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.583
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.773
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.792
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.810
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.828
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.845
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.865
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.881
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.902
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:00.922
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.521
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.531
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.542
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.552
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.562
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.571
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.581
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.590
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.600
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.739
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.750
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.765
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.782
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.797
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.812
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.825
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.842
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:06.854
+!MESSAGE Compile error during code evaluation: The type javax.swing.UIManager is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.208
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.252
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.284
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.312
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.348
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.385
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.409
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.446
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:11.486
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.600
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.626
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.654
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.677
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.696
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.719
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.742
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.763
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:13.783
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.263
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.279
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.289
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.299
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.310
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.320
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.330
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.341
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:31.351
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.165
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.177
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.193
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.215
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.234
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.251
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.268
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.283
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.298
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.428
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.439
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.449
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.460
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.470
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.481
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.491
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.502
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.513
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.782
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.801
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.813
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.875
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.907
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.933
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.954
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.972
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:32.989
+!MESSAGE Compile error during code evaluation: The type java.util.Properties is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.176
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.375
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.512
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.610
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.725
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.845
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:49.947
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.066
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.196
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.309
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.456
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.561
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.734
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.925
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:50.926
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.102
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.103
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.261
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.262
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.353
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.354
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.444
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.445
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.543
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.544
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.619
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.619
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.688
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.688
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.788
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:51.789
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.453
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.491
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.525
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.565
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.618
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.685
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.763
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.842
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:57.884
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.006
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.043
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.100
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.147
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.189
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.235
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.274
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.308
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.337
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.363
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.387
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.410
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.434
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.456
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.481
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.517
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.549
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.580
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.872
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.910
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:58.945
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.000
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.054
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.099
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.143
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.184
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.216
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.248
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.290
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.330
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.370
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.412
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.450
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.490
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.528
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.562
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.648
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.697
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.736
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.783
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.826
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.862
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.901
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.950
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:12:59.994
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.537
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.562
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.590
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.620
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.649
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.678
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.707
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.736
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:06.767
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.364
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.412
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.465
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.517
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.585
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.646
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.700
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.754
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.798
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.838
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.884
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.928
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:11.974
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:12.011
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:12.055
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:12.111
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:12.160
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:12.223
+!MESSAGE Compile error during code evaluation: The type sun.awt.OSInfo is not accessible
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.166
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.273
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.380
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.481
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.595
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.685
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.802
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:19.958
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.139
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.295
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.520
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.521
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.701
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.701
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.850
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:20.850
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.015
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.015
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.201
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.202
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.311
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.312
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.500
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.500
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.678
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.678
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.784
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.785
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.901
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:21.902
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.011
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.012
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.159
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.159
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.374
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.375
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.543
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.544
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.635
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.635
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.697
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.698
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.802
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.803
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.931
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:22.932
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.017
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.018
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.127
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.127
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.269
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.269
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.396
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.396
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.553
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.554
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.667
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.667
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.780
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.780
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.866
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.866
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.929
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.930
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.985
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:23.985
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.044
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.044
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.107
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.107
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.166
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.166
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.232
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.233
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.371
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.372
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.542
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.543
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.694
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.695
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.778
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.779
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.842
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.843
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.908
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.908
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.978
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:24.978
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.047
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.047
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.115
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.115
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.179
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.180
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.242
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.243
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.310
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.310
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.379
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.380
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.465
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.465
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.561
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.561
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.661
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.661
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.752
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.752
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.830
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.830
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.923
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:25.924
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.020
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.021
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.122
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.122
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.181
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.220
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.256
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.281
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.305
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.327
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.351
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.375
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.400
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.426
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.451
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.479
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.506
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.541
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.579
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.618
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.658
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.696
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.736
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.775
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.818
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.866
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.906
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.951
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:26.997
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.037
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.080
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.119
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.163
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.201
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.232
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.261
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.293
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.324
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.356
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.388
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.420
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.453
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.486
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.519
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.552
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.586
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.619
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.655
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.688
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.721
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.754
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.788
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.825
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.853
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.877
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.900
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.922
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:27.945
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.448
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.475
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.505
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.535
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.562
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.593
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.625
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.657
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.699
+!MESSAGE Compile error during code evaluation: The type java.lang.String is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.993
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:34.994
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.125
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.125
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.276
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.277
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.460
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.460
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.590
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.590
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.692
+!MESSAGE Compile error during code evaluation: The type java.util.concurrent.ConcurrentHashMap is ambiguous
+
+!ENTRY org.eclipse.debug.core 2 0 2024-02-21 08:13:35.692
+!MESSAGE Compile error during code evaluation: Syntax error on token(s), misplaced construct(s)
+
+!ENTRY org.eclipse.jdt.debug.ui 4 150 2024-02-21 08:17:24.955
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.debug.core.DebugException: Invalid stack frame
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getUnderlyingStackFrame(JDIStackFrame.java:1378)
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getUnderlyingVisibleVariables(JDIStackFrame.java:985)
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getVariables0(JDIStackFrame.java:388)
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getVariables(JDIStackFrame.java:307)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.containsVariable(JavaDebugHover.java:620)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.lambda$2(JavaDebugHover.java:639)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.findFirstFrameForVariable(JavaDebugHover.java:604)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:469)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+Caused by: java.lang.IllegalStateException
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getUnderlyingStackFrame(JDIStackFrame.java:1381)
+	... 11 more
+!SUBENTRY 1 org.eclipse.jdt.debug 4 100 2024-02-21 08:17:24.957
+!MESSAGE Invalid stack frame
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getUnderlyingStackFrame(JDIStackFrame.java:1381)
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getUnderlyingVisibleVariables(JDIStackFrame.java:985)
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getVariables0(JDIStackFrame.java:388)
+	at org.eclipse.jdt.internal.debug.core.model.JDIStackFrame.getVariables(JDIStackFrame.java:307)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.containsVariable(JavaDebugHover.java:620)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.lambda$2(JavaDebugHover.java:639)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.findFirstFrameForVariable(JavaDebugHover.java:604)
+	at org.eclipse.jdt.internal.debug.ui.JavaDebugHover.getHoverInfo2(JavaDebugHover.java:469)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2024-02-22 09:38:43.266 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-22 09:38:51.233
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-22 09:39:08.342
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-22 09:39:11.138
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-22 09:39:11.138
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-22 09:39:19.386
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-23 13:00:42.063 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-23 13:00:44.912
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-23 13:01:01.904
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-23 13:01:05.074
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-23 13:01:05.074
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-23 13:01:14.794
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-02-26 10:19:05.241 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-26 10:19:12.346
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-02-26 10:19:36.144
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Introdução a Linguagem de Programação em JAVA\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-02-26 10:19:39.753
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-02-26 10:19:39.753
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-02-26 10:19:50.432
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-03-28 19:20:22.983 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-28 19:20:25.303
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 4 567 2024-03-28 19:21:22.285
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2024-03-28 19:21:22.285
+!MESSAGE Could not read metadata for '.org.eclipse.egit.core.cmp'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(/.org.eclipse.egit.core.cmp)[567]: java.lang.Exception: The project description file (.project) for '.org.eclipse.egit.core.cmp' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:955)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:954)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:934)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:790)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1616)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2620)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2324)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:571)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:947)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:258)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:185)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:324)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:267)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:545)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:818)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:810)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1032)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:371)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:513)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:570)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:335)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:397)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:496)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2024-03-28 19:21:22.289
+!MESSAGE The project description file (.project) for '.org.eclipse.egit.core.cmp' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+!STACK 0
+java.lang.Exception: The project description file (.project) for '.org.eclipse.egit.core.cmp' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.resources.ResourceException.provideStackTrace(ResourceException.java:42)
+	at org.eclipse.core.internal.resources.ResourceException.<init>(ResourceException.java:38)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:955)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:954)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:934)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:790)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1616)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2620)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2324)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:571)
+	at org.eclipse.core.resources.ResourcesPlugin$WorkspaceInitCustomizer.addingService(ResourcesPlugin.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:947)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:258)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:185)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:324)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:267)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:545)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:818)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$2.run(BundleContextImpl.java:1)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:810)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:1032)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:371)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:605)
+	at org.eclipse.osgi.container.Module.start(Module.java:468)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:513)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:570)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:335)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:397)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:41)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass0(BundleLoader.java:496)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:416)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:168)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:153)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY ch.qos.logback.classic 1 0 2024-03-28 19:21:22.703
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Módulo - Desenvolvedor Orientado a Objeto\Programação Extrema\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-03-28 19:21:24.753
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-03-28 19:21:24.753
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-03-28 19:21:30.311
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-05-08 12:35:07.723 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-08 12:35:16.538
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-05-08 12:35:24.640
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Módulo - Desenvolvedor Orientado a Objeto\Programação Extrema\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-05-08 12:35:27.269
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-05-08 12:35:27.269
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-05-08 12:35:36.272
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Andre'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-06-03 09:11:05.845 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-03 09:11:32.979
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-06-03 09:11:47.147
+!MESSAGE Logback config file: D:\FACULDADE\Materias 2º Semestre e Meio\Módulo - Desenvolvedor Orientado a Objeto\Programação Extrema\Java\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.1.20231030-1438.xml
+
+!ENTRY org.eclipse.jface 2 0 2024-06-03 09:11:49.961
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2024-06-03 09:11:49.961
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-06-03 09:11:59.615
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dedew'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2024-06-03 09:14:56.617
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: org.eclipse.swt.SWTException: i/o error (java.io.FileNotFoundException: D:\Programas\Git\mingw64\share\git\git-for-windows.ico (O sistema não pode encontrar o caminho especificado))
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4802)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:208)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:133)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:361)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:191)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:202)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:256)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:114)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:469)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4273)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5141)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4773)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2305)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5039)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:237)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4112)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3653)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:648)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:555)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+Caused by: org.eclipse.swt.SWTException: i/o error (java.io.FileNotFoundException: D:\Programas\Git\mingw64\share\git\git-for-windows.ico (O sistema não pode encontrar o caminho especificado))
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:181)
+	at org.eclipse.tm.terminal.view.ui.local.showin.ExternalExecutablesUtils.loadImage(ExternalExecutablesUtils.java:38)
+	at org.eclipse.tm.terminal.view.ui.local.showin.DynamicContributionItems.getContributionItems(DynamicContributionItems.java:74)
+	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:146)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:729)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:806)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:673)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1227)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicVisible(MenuManagerRenderer.java:213)
+	at jdk.internal.reflect.GeneratedMethodAccessor39.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 62 more
+Caused by: java.io.FileNotFoundException: D:\Programas\Git\mingw64\share\git\git-for-windows.ico (O sistema não pode encontrar o caminho especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at org.eclipse.swt.graphics.ImageLoader.load(ImageLoader.java:178)
+	... 76 more
